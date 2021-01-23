@@ -1,0 +1,73 @@
+﻿body {
+    
+}
+.ana{
+    text-align:center;
+    width:1000px;
+    height:850px;
+    background-color:antiquewhite;
+    position:relative;
+    margin-left:auto;
+            margin-right:auto;
+}
+.ic{
+    position:absolute;
+    top:273px;
+    width:400px;
+    height:477px;
+    left:306px;
+    background-color:purple;
+}
+.baslik{
+    width:400px;
+    height:40px;
+    position:absolute;
+    left:306px;
+    top:172px;
+}
+.label{
+    position:absolute;
+    top:200px;
+    left:70px;
+}
+.button{
+    position:absolute;
+    top:350px;
+    left:170px;
+}
+.yeni{
+    position:absolute;
+    top:400px;
+    left:60px;
+}
+.ic2{
+    position:absolute;
+    top:250px;
+    width:400px;
+    height:250px;
+    left:306px;
+    background-color:purple;
+}
+.button2{
+    position:absolute;
+    top:150px;
+    left:170px;
+}
+.aciklama{
+    position:absolute;
+    top:210px;
+    left:70px;
+
+}
+.labell{
+    position:relative;
+    left:70px;
+    top:300px;
+}
+.Anabaslik{
+    width:1000px;
+    height:40px;
+    position:absolute;
+    top:5px;
+    left:0px;
+}
