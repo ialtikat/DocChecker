@@ -27,6 +27,8 @@ Programlama Dilleri dersi projesi kapsamında tez dokümanlarının kontrolü i�
   - Doküman içerisindeki yazı fontlarının doğru hazırlanıp hazırlanmadığı kontrol edilmiştir.
   - Elde edilen sonuçların görsel arayüzde gösterimi sağlanmış ayrıca **Rapor** olarak indirme imkanı sağlanmıştır.
  
+# Proje Videosu
+[![Everything Is AWESOME](https://img.youtube.com/vi/flsLczYCgoE/0.jpg)](https://www.youtube.com/watch?v=flsLczYCgoE)
 
 ## Proje Üyeleri
 * [Alp EREN](https://github.com/erenalpt) 
