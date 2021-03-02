@@ -32,7 +32,7 @@ Programlama Dilleri dersi projesi kapsamında tez dokümanlarının kontrolü i�
 
 ## Proje Üyeleri
 * [Alp EREN](https://github.com/erenalpt) 
-* [İbrahim ALTIKAT](https://github.com/IbrahimAltikat) 
+* [İbrahim ALTIKAT](https://github.com/ialtikat) 
 * [Halef BUDANUR](https://github.com/reis5449) 
 * [Mehmet Sait OĞUZ](https://github.com/msoguz44) 
 * [Mehmet Ali KILINÇASLAN](https://github.com/47memed47) 
